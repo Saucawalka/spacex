@@ -365,6 +365,10 @@ flex-wrap: wrap;
   display: none;
 }
 
+.ton{
+  overflow-x: hidden;
+}
+
 
 
 
@@ -382,12 +386,9 @@ flex-wrap: wrap;
     display: contents;
     width: 200px;
   }
-  .mainimg1>img{
-    width: 375px;
-  }
   
   .put1>input{
-    width: 330px;
+    width: 325px;
   }
   .two{
     text-align: center;
@@ -402,6 +403,7 @@ flex-wrap: wrap;
   .crane{
     display: contents;
    overflow-x: hidden;
+
   }
   .dupe{
     display: none;
