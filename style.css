@@ -3,6 +3,9 @@ padding: 0%;
 box-sizing:border-box ;
 }
 
+.gune{
+  display: none;
+}
 .one1{
   width: 556px;
   position: relative;
@@ -337,10 +340,9 @@ box-sizing:border-box ;
   opacity: 0;
   transition: opacity 0.3s ease;
 }
-.one24:hover .twentyfourdune{
+.one24:hover .twentyfourdune{ 
   opacity: 1;
 }
-
 
 .two{
   margin-top: 150px;
@@ -348,38 +350,406 @@ box-sizing:border-box ;
   
   
 }
+.crane{
+
+flex-wrap: wrap;
+  display: none;
+}
+.put1>input{
+  outline-color:grey ;
+}
+.put1>input{
+  width: 330px;
+}
+.clod{
+  display: none;
+}
 
 
 
 
 
 @media only screen and (max-width: 480px){
-  .super{
-    display:contents;
-  }
-  .navlink1{
-    display: none;
-  }
-  .navlink2{
-    display: none;
-  }
-  .navimg>img{
-    width: 80px;
-    margin-left: 70px;
-    
-  }
-  nav{
-    width: 320px;
+  .clod{
+    display: contents;
   }
 
-  .mainimg1>img{
-    width: 320px;
+  
+  .ton{
+    display: none;
   }
-  .one>img{
-    width: 190px;
+  .gune{
+    display: contents;
+    width: 200px;
+  }
+  .mainimg1>img{
+    width: 375px;
   }
   
+  .put1>input{
+    width: 330px;
   }
+  .two{
+    text-align: center;
+    margin-left: 0px;
+  }
+  .last{
+    width: 250px;
+    margin-left: 60px;
+    
+  }
+  
+  .crane{
+    display: contents;
+   overflow-x: hidden;
+  }
+  .dupe{
+    display: none;
+  }
+  
+.one1{
+  width: 166px;
+  position: relative;
+}
+.onedune{
+  position: absolute;
+  top: 0;
+  left: 0;
+  opacity: 0;
+  transition: opacity 0.3s ease;
+}
+.one1:hover .onedune{
+  opacity: 1;
+}
+
+.one2{
+  width: 166px;
+  position: relative;
+}
+.twodune{
+  position: absolute;
+  top: 0;
+  left: 0;
+  opacity: 0;
+  transition: opacity 0.3s ease;
+}
+.one2:hover .twodune{
+  opacity: 1;
+}
+.one3{
+  width: 166px;
+  position: relative;
+}
+.threedune{
+  position: absolute;
+  top: 0;
+  left: 0;
+  opacity: 0;
+  transition: opacity 0.3s ease;
+}
+.one3:hover .threedune{
+  opacity: 1;
+}
+.one4{
+  width: 166px;
+  position: relative;
+}
+.fourdune{
+  position: absolute;
+  top: 0;
+  left: 0;
+  opacity: 0;
+  transition: opacity 0.3s ease;
+}
+.one4:hover .fourdune{
+  opacity: 1;
+}
+.one5{
+  width: 166px;
+  position: relative;
+}
+.fivedune{
+  position: absolute;
+  top: 0;
+  left: 0;
+  opacity: 0;
+  transition: opacity 0.3s ease;
+}
+.one5:hover .fivedune{
+  opacity: 1;
+}
+.one6{
+  width: 166px;
+  position: relative;
+}
+.sixdune{
+  position: absolute;
+  top: 0;
+  left: 0;
+  opacity: 0;
+  transition: opacity 0.3s ease;
+}
+.one6:hover .sixdune{
+  opacity: 1;
+}
+.one7{
+  width: 166px;
+  position: relative;
+}
+.sevendune{
+  position: absolute;
+  top: 0;
+  left: 0;
+  opacity: 0;
+  transition: opacity 0.3s ease;
+}
+.one7:hover .sevendune{
+  opacity: 1;
+}
+.one8{
+  width: 166px;
+  position: relative;
+}
+.eightdune{
+  position: absolute;
+  top: 0;
+  left: 0;
+  opacity: 0;
+  transition: opacity 0.3s ease;
+}
+.one8:hover .eightdune{
+  opacity: 1;
+}
+.one9{
+  width: 166px;
+  position: relative;
+}
+.ninedune{
+  position: absolute;
+  top: 0;
+  left: 0;
+  opacity: 0;
+  transition: opacity 0.3s ease;
+}
+.one9:hover .ninedune{
+  opacity: 1;
+}
+.one10{
+  width: 166px;
+  position: relative;
+}
+.tendune{
+  position: absolute;
+  top: 0;
+  left: 0;
+  opacity: 0;
+  transition: opacity 0.3s ease;
+}
+.one10:hover .tendune{
+  opacity: 1;
+}
+.one11{
+  width: 166px;
+  position: relative;
+}
+.elevendune{
+  position: absolute;
+  top: 0;
+  left: 0;
+  opacity: 0;
+  transition: opacity 0.3s ease;
+}
+.one11:hover .elevendune{
+  opacity: 1;
+}
+.one12{
+  width: 166px;
+  position: relative;
+}
+.twelvedune{
+  position: absolute;
+  top: 0;
+  left: 0;
+  opacity: 0;
+  transition: opacity 0.3s ease;
+}
+.one12:hover .twelvedune{
+  opacity: 1;
+}
+.one13{
+  width: 166px;
+  position: relative;
+}
+.thirteendune{
+  position: absolute;
+  top: 0;
+  left: 0;
+  opacity: 0;
+  transition: opacity 0.3s ease;
+}
+.one13:hover .thirteendune{
+  opacity: 1;
+}
+.one14{
+  width: 166px;
+  position: relative;
+}
+.fourteendune{
+  position: absolute;
+  top: 0;
+  left: 0;
+  opacity: 0;
+  transition: opacity 0.3s ease;
+}
+.one14:hover .fourteendune{
+  opacity: 1;
+}
+.one15{
+  width: 166px;
+  position: relative;
+}
+.fifteendune{
+  position: absolute;
+  top: 0;
+  left: 0;
+  opacity: 0;
+  transition: opacity 0.3s ease;
+}
+.one15:hover .fifteendune{
+  opacity: 1;
+}
+.one16{
+  width: 166px;
+  position: relative;
+}
+.sixteendune{
+  position: absolute;
+  top: 0;
+  left: 0;
+  opacity: 0;
+  transition: opacity 0.3s ease;
+}
+.one16:hover .sixteendune{
+  opacity: 1;
+}
+.one17{
+  width: 166px;
+  position: relative;
+}
+.seventeendune{
+  position: absolute;
+  top: 0;
+  left: 0;
+  opacity: 0;
+  transition: opacity 0.3s ease;
+}
+.one17:hover .seventeendune{
+  opacity: 1;
+}
+.one18{
+  width: 166px;
+  position: relative;
+}
+.eighteendune{
+  position: absolute;
+  top: 0;
+  left: 0;
+  opacity: 0;
+  transition: opacity 0.3s ease;
+}
+.one18:hover .eighteendune{
+  opacity: 1;
+}
+.one19{
+  width: 166px;
+  position: relative;
+}
+.nineteendune{
+  position: absolute;
+  top: 0;
+  left: 0;
+  opacity: 0;
+  transition: opacity 0.3s ease;
+}
+.one19:hover .nineteendune{
+  opacity: 1;
+}
+.one20{
+  width: 166px;
+  position: relative;
+}
+.twentydune{
+  position: absolute;
+  top: 0;
+  left: 0;
+  opacity: 0;
+  transition: opacity 0.3s ease;
+}
+.one20:hover .twentydune{
+  opacity: 1;
+}
+.one21{
+  width: 166px;
+  position: relative;
+}
+.twentyonedune{
+  position: absolute;
+  top: 0;
+  left: 0;
+  opacity: 0;
+  transition: opacity 0.3s ease;
+}
+.one21:hover .twentyonedune{
+  opacity: 1;
+}
+.one22{
+  width: 166px;
+  position: relative;
+}
+.twentytwodune{
+  position: absolute;
+  top: 0;
+  left: 0;
+  opacity: 0;
+  transition: opacity 0.3s ease;
+}
+.one22:hover .twentytwodune{
+  opacity: 1;
+}
+.one23{
+  width: 166px;
+  position: relative;
+}
+.twentythreedune{
+  position: absolute;
+  top: 0;
+  left: 0;
+  opacity: 0;
+  transition: opacity 0.3s ease;
+}
+.one23:hover .twentythreedune{
+  opacity: 1;
+}
+.one24{
+  width: 166px;
+  position: relative;
+}
+.twentyfourdune{
+  position: absolute;
+  top: 0;
+  left: 0;
+  opacity: 0;
+  transition: opacity 0.3s ease;
+}
+.one24:hover .twentyfourdune{ 
+  opacity: 1;
+}
+h6{
+  font-size: 12px;
+}
+
+  }
+  
   
   
   /* .gyat{
