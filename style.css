@@ -395,9 +395,8 @@ flex-wrap: wrap;
     margin-left: 0px;
   }
   .last{
-    width: 250px;
     margin-left: 60px;
-    
+    padding-right: 50px;
   }
   
   .crane{
