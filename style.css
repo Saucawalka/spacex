@@ -422,13 +422,13 @@ flex-wrap: wrap;
   font-size: 60px;
 }
 .close{
-  position: relative;
-  margin-left: 200px;
+  position: absolute;
+  margin-left: 300px;
   font-size: 13px;
   text-decoration: none;
   color: black;
   font-weight: lighter;
-  top: -34px;
+  top: 386px;
 }
 
 @media only screen and (max-width: 480px){
@@ -442,7 +442,15 @@ flex-wrap: wrap;
     display: contents;
   }
 
-  
+  .close{
+    position: relative;
+    margin-left: 200px;
+    font-size: 13px;
+    text-decoration: none;
+    color: black;
+    font-weight: lighter;
+    top: -34px;
+  }
 
   
   .ton{
