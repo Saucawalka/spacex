@@ -373,9 +373,14 @@ flex-wrap: wrap;
 
 
 
+
 @media only screen and (max-width: 480px){
   .clod{
     display: contents;
+  }
+
+  .endo{
+    float: right;
   }
 
   
