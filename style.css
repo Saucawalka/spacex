@@ -431,6 +431,7 @@ flex-wrap: wrap;
   top: 386px;
 }
 
+
 @media only screen and (max-width: 480px){
   .overlay a {font-size: 20px}
   .overlay .closebtn {
@@ -452,7 +453,9 @@ flex-wrap: wrap;
     top: -34px;
   }
 
-  
+  .center{
+    display: none;
+  }
   .ton{
     display: none;
   }
